@@ -1,4 +1,4 @@
-# identicon Generator
+# Identicon Generator
 Elixir implementation of procedural image algorithm used by github in profile picture
 
 ## How to
