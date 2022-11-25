@@ -1,0 +1,4 @@
+%{
+  "egd": {:git, "https://github.com/erlang/egd.git", "1cea959544de7dd40a3284ba571a58939de57616", []},
+  "elixir_uuid": {:git, "https://github.com/wingyplus/elixir-uuid", "a06054b3ddf426508c2e9d3d0af494a59f5ea820", [branch: "extra-apps"]},
+}
